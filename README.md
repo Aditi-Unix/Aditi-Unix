@@ -79,12 +79,6 @@ AI Integration        ████████████████░░░�
 DSA / Problem Solving ████████████████░░░░
 ```
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditi-Unix&show_icons=true&hide_border=true&theme=transparent" alt="Aditi's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Unix&layout=compact&hide_border=true&theme=transparent" alt="Aditi's top languages">
-</p>
 
 ## Connect With Me
 
