@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./Light.svg">
   <img alt="Aditi Rathi — Backend Developer" src="./dark.svg" width="100%">
 </picture>
 
