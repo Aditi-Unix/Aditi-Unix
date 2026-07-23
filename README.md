@@ -6,16 +6,6 @@
   <img alt="Aditi Rathi — Backend Developer" src="./dark.svg" width="100%">
 </picture>
 
-# Aditi Rathi
-
-### Backend Developer | Building Scalable APIs & Intelligent Backend Systems
-
-<p>
-  <a href="https://github.com/Aditi-Unix">GitHub</a> •
-  <a href="https://www.linkedin.com/in/aditi-rathi-147a0a352/">LinkedIn</a> •
-  <a href="mailto:rathiaditi881@gmail.com">Email</a>
-</p>
-
 </div>
 
 ## About Me
